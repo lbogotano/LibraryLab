@@ -1,0 +1,4 @@
+interface Reserveable {
+
+    boolean isReserveable();
+}
