@@ -1,4 +1,4 @@
-public class Magazine extends Periodical{
+public class Magazine extends Periodical implements Readable{
     
     private String category;
     private String audience;
